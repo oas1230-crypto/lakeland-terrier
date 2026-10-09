@@ -1,0 +1,44 @@
+.comparison-bar { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:16px 24px; padding:18px 4.2%; background:#0d2017; border-bottom:1px solid var(--line); }
+.comparison-bar strong { font-size:1rem; font-weight:500; }
+.comparison-bar p { font-size:.8125rem; color:var(--muted); margin:3px 0 0; }
+.comparison-bar>a { font-size:.8125rem; min-height:44px; display:inline-flex; align-items:center; }
+.comparison-switch { display:flex; flex-wrap:wrap; gap:8px; }
+.comparison-switch button { color:var(--cream); border:1px solid #afbd945c; border-radius:28px; background:transparent; padding:10px 18px; min-height:44px; font-size:.875rem; }
+.comparison-switch button[aria-pressed="true"] { background:var(--gold); border-color:var(--gold); color:var(--deep); }
+.comparison-note { font-size:.875rem; color:var(--muted); padding:24px 5%; text-align:center; }
+#preview-new .cover-a-photo img { object-position:45% center; }
+@media(max-width:760px) { .comparison-bar { padding:16px 5%; gap:12px; } .comparison-switch { width:100%; } .comparison-switch button { flex:1; padding:10px 12px; } .comparison-bar>a { min-height:30px; } #preview-new .cover-a-photo img { object-position:45% center; } }
+
+#preview-new .cover-a-photo figcaption { pointer-events:auto; }
+
+.cover-a-duo { height:690px; padding:18px 100px; display:grid; grid-template-rows:minmax(0,1fr) minmax(0,1.12fr); gap:16px; background:linear-gradient(#142c21bc,#142c21d9),url('../../site/assets/owner/forest.webp') center/cover; }
+.cover-a-duo figure { position:relative; min-height:0; box-shadow:0 8px 24px #07140e44; }
+.cover-a-duo .photo-link { height:100%; }
+.cover-a-duo img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.cover-a-duo .duo-portrait img { object-position:center 28%; }
+.cover-a-duo .duo-rest img { object-position:center 68%; }
+.cover-a-duo figcaption { position:absolute; bottom:10px; left:12px; max-width:calc(100% - 24px); color:#f3efe3; background:#17241cef; padding:5px 9px; font-size:.625rem; line-height:1.4; }
+.cover-a-duo .zoom-hint { top:10px; right:10px; }
+@media(min-width:1600px) { .cover-a-duo { height:800px; padding-inline:12%; } }
+@media(min-width:761px) and (max-width:1100px) { .cover-a-duo { height:640px; padding-inline:18px; } }
+@media(max-width:760px) { .cover-a-duo { order:-1; height:540px; padding:16px; gap:14px; } .comparison-switch button { flex:1 1 100px; } }
+
+#preview-chair .cover-a-photo img { object-position:center 64%; }
+@media(max-width:760px) { .comparison-switch button { flex:1 1 42%; } }
+
+/* Variant 02: keep the crop on the nose side, reveal the complete right edge. */
+#preview-new .cover-a-photo { display:flex; flex-direction:column; justify-content:center; padding-block:26px; background:linear-gradient(#142c21c9,#142c21e0),url('../../site/assets/owner/forest.webp') center/cover; }
+#preview-new .cover-a-photo>.photo-link { min-height:0; height:auto; aspect-ratio:704/533; flex-shrink:0; }
+#preview-new .cover-a-photo img { position:static; width:113.636364%; height:auto; max-width:none; margin-left:-13.636364%; object-fit:initial; transform:none; }
+#preview-new .cover-a-photo figcaption { position:static; max-width:none; margin:0; padding:10px 18px; align-self:stretch; background:#132b20; }
+@media(max-width:760px) { #preview-new .cover-a-photo { padding-block:0; } }
+
+/* Preserve the earlier compositions for comparison with the approved portrait. */
+#preview-current .cover-a-photo,#preview-chair .cover-a-photo { display:block; padding:0; background:none; }
+#preview-current .cover-a-photo>.photo-link,#preview-chair .cover-a-photo>.photo-link { height:100%; min-height:690px; aspect-ratio:auto; }
+#preview-current .cover-a-photo img,#preview-chair .cover-a-photo img { position:absolute; inset:0; margin:0; width:100%; height:100%; object-fit:cover; object-position:center 65%; }
+#preview-chair .cover-a-photo img { object-position:center 64%; }
+#preview-current .cover-a-photo figcaption,#preview-chair .cover-a-photo figcaption { position:absolute; left:24px; bottom:24px; max-width:calc(100% - 48px); padding:8px 14px; background:#17241cef; pointer-events:none; }
+@media(min-width:1600px) { #preview-current .cover-a-photo>.photo-link,#preview-chair .cover-a-photo>.photo-link { min-height:800px; } }
+@media(min-width:761px) and (max-width:1100px) { #preview-current .cover-a-photo>.photo-link,#preview-chair .cover-a-photo>.photo-link { min-height:640px; } }
+@media(max-width:760px) { #preview-current .cover-a-photo>.photo-link,#preview-chair .cover-a-photo>.photo-link { min-height:0; aspect-ratio:1.05; } #preview-current .cover-a-photo img { object-position:center 69%; } }

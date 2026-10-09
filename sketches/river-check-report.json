@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "initialVideoRequests": 0,
+      "hero": "assets/dog-rest.webp",
+      "albumPortrait": "assets/dog-front.webp"
+    },
+    {
+      "variant": "immersive",
+      "duration": 10,
+      "playing": true,
+      "height": 1280,
+      "error": null,
+      "overflow": false,
+      "videoWidth": 720,
+      "viewportWidth": 390
+    },
+    {
+      "variant": "journal",
+      "duration": 10,
+      "playing": true,
+      "height": 1280,
+      "error": null,
+      "overflow": false,
+      "videoWidth": 720,
+      "viewportWidth": 390
+    },
+    {
+      "width": 1440,
+      "initialVideoRequests": 0,
+      "hero": "assets/dog-rest.webp",
+      "albumPortrait": "assets/dog-front.webp"
+    },
+    {
+      "variant": "immersive",
+      "duration": 10,
+      "playing": true,
+      "height": 1280,
+      "error": null,
+      "overflow": false,
+      "videoWidth": 720,
+      "viewportWidth": 1440
+    },
+    {
+      "variant": "journal",
+      "duration": 10,
+      "playing": true,
+      "height": 1280,
+      "error": null,
+      "overflow": false,
+      "videoWidth": 720,
+      "viewportWidth": 1440
+    }
+  ],
+  "errors": []
+}

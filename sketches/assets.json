@@ -1,0 +1,66 @@
+[
+  {
+    "file": "dog-profile.webp",
+    "source": "codex-clipboard-78001bbc-470f-4902-9681-2017b349c799.jpg",
+    "dimensions": [
+      4032,
+      3024
+    ]
+  },
+  {
+    "file": "dog-walk.webp",
+    "source": "codex-clipboard-2b0d9e4d-d662-41e0-b606-427d6c229357.jpg",
+    "dimensions": [
+      4032,
+      3024
+    ]
+  },
+  {
+    "file": "moss.webp",
+    "source": "codex-clipboard-375be057-d0a3-4914-b10d-2929a64714b1.jpg",
+    "dimensions": [
+      960,
+      1280
+    ]
+  },
+  {
+    "file": "forest.webp",
+    "source": "codex-clipboard-88f32867-1413-4c21-a46c-3080fbcffc9a.jpg",
+    "dimensions": [
+      4284,
+      5712
+    ]
+  },
+  {
+    "file": "web.webp",
+    "source": "codex-clipboard-ed70acf7-44cf-4f76-8a4f-6875ac4aefd3.png",
+    "dimensions": [
+      960,
+      1280
+    ]
+  },
+  {
+    "file": "dog-rest.webp",
+    "source": "codex-clipboard-992cd67e-1159-487d-9470-4b2562baab18.jpg",
+    "dimensions": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "file": "dog-front.webp",
+    "source": "codex-clipboard-db8834c8-f054-4372-af59-2b5140bf0b7a.jpg",
+    "dimensions": [
+      3024,
+      4032
+    ]
+  },
+  {
+    "file": "mushroom.webp",
+    "source": "codex-clipboard-20c0bf6f-f56f-463a-8861-08d0a08364f0.png",
+    "dimensions": [
+      960,
+      1280
+    ]
+  }
+]

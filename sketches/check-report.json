@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "width": 360,
+      "variant": "immersive",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 360,
+      "variant": "journal",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 360,
+      "albumOpen": true,
+      "albumNext": true
+    },
+    {
+      "width": 360,
+      "albumClosed": true,
+      "scrollUnlocked": true
+    },
+    {
+      "width": 390,
+      "variant": "immersive",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 390,
+      "variant": "journal",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 390,
+      "albumOpen": true,
+      "albumNext": true
+    },
+    {
+      "width": 390,
+      "albumClosed": true,
+      "scrollUnlocked": true
+    },
+    {
+      "width": 768,
+      "variant": "immersive",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 768,
+      "variant": "journal",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 768,
+      "albumOpen": true,
+      "albumNext": true
+    },
+    {
+      "width": 768,
+      "albumClosed": true,
+      "scrollUnlocked": true
+    },
+    {
+      "width": 1440,
+      "variant": "immersive",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 1440,
+      "variant": "journal",
+      "overflow": false,
+      "images": true
+    },
+    {
+      "width": 1440,
+      "albumOpen": true,
+      "albumNext": true
+    },
+    {
+      "width": 1440,
+      "albumClosed": true,
+      "scrollUnlocked": true
+    },
+    {
+      "noJSBothVisible": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,57 @@
+{
+  "checks": [
+    [
+      "open dialog",
+      true
+    ],
+    [
+      "ten images",
+      true
+    ],
+    [
+      "next landscape",
+      true
+    ],
+    [
+      "keyboard previous",
+      true
+    ],
+    [
+      "wrap to last",
+      true
+    ],
+    [
+      "Escape closes",
+      true
+    ],
+    [
+      "focus restored",
+      true
+    ],
+    [
+      "landscape opens",
+      true
+    ],
+    [
+      "scene opens",
+      true
+    ],
+    [
+      "scroll unlocked",
+      true
+    ],
+    [
+      "mobile dialog no overflow",
+      true
+    ],
+    [
+      "200% mobile page no overflow",
+      true
+    ],
+    [
+      "200% mobile dialog no overflow",
+      true
+    ]
+  ],
+  "errors": []
+}

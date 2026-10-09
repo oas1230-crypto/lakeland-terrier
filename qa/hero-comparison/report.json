@@ -1,0 +1,40 @@
+[
+  {
+    "width": 390,
+    "variant": "new",
+    "visible": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "variant": "current",
+    "visible": true,
+    "newHidden": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4173/sketches/hero-comparison/?photo=current"
+  },
+  {
+    "width": 390,
+    "keyboardSwitch": true
+  },
+  {
+    "width": 1440,
+    "variant": "new",
+    "visible": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "variant": "current",
+    "visible": true,
+    "newHidden": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4173/sketches/hero-comparison/?photo=current"
+  },
+  {
+    "width": 1440,
+    "keyboardSwitch": true
+  }
+]

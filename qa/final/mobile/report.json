@@ -1,0 +1,46 @@
+[
+  {
+    "device": "iphone",
+    "engine": "Chrome emulating iPhone dimensions (not Safari)",
+    "viewport": {
+      "width": 390,
+      "height": 664
+    },
+    "checks": {
+      "noOverflow": true,
+      "touchTargets": true,
+      "anchor": true,
+      "sceneTab": true,
+      "albumNext": true,
+      "albumCloses": true,
+      "scrollUnlock": true,
+      "details": true,
+      "video": true,
+      "landscapeNoOverflow": true,
+      "text200NoOverflow": true
+    },
+    "errors": []
+  },
+  {
+    "device": "android",
+    "engine": "Chrome Android profile",
+    "viewport": {
+      "width": 412,
+      "height": 839
+    },
+    "checks": {
+      "noOverflow": true,
+      "touchTargets": true,
+      "anchor": true,
+      "sceneTab": true,
+      "albumNext": true,
+      "albumCloses": true,
+      "scrollUnlock": true,
+      "details": true,
+      "video": true,
+      "landscapeNoOverflow": true,
+      "text200NoOverflow": true
+    },
+    "errors": []
+  }
+]

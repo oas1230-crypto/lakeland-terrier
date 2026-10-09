@@ -1,0 +1,145 @@
+{
+  "viewports": [
+    {
+      "width": 360,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "h1": 1,
+      "oldSiteLinks": 0
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "h1": 1,
+      "oldSiteLinks": 0
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "h1": 1,
+      "oldSiteLinks": 0
+    },
+    {
+      "width": 912,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "h1": 1,
+      "oldSiteLinks": 0
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "h1": 1,
+      "oldSiteLinks": 0
+    }
+  ],
+  "checks": [
+    [
+      "video deferred 360",
+      true
+    ],
+    [
+      "video deferred 390",
+      true
+    ],
+    [
+      "mobile album no overflow",
+      true
+    ],
+    [
+      "video deferred 768",
+      true
+    ],
+    [
+      "video deferred 912",
+      true
+    ],
+    [
+      "video deferred 1440",
+      true
+    ],
+    [
+      "family default",
+      true
+    ],
+    [
+      "tabs arrows",
+      true
+    ],
+    [
+      "tabs End",
+      true
+    ],
+    [
+      "tabs Home",
+      true
+    ],
+    [
+      "album hero correct",
+      true
+    ],
+    [
+      "album next",
+      true
+    ],
+    [
+      "album keyboard",
+      true
+    ],
+    [
+      "album closes",
+      true
+    ],
+    [
+      "focus restored",
+      true
+    ],
+    [
+      "landscape album",
+      true
+    ],
+    [
+      "Earthdog detail",
+      true
+    ],
+    [
+      "lake video plays",
+      true
+    ],
+    [
+      "200% text 390",
+      true,
+      []
+    ],
+    [
+      "200% text 768",
+      true,
+      []
+    ],
+    [
+      "noJS scene story",
+      true
+    ],
+    [
+      "noJS image links",
+      true
+    ],
+    [
+      "reduced motion",
+      true
+    ],
+    [
+      "local file title",
+      true
+    ]
+  ],
+  "errors": []
+}

@@ -1,0 +1,78 @@
+{
+  "viewports": [
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "images": true,
+      "badLinks": []
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "images": true,
+      "badLinks": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "images": true,
+      "badLinks": []
+    },
+    {
+      "width": 912,
+      "scrollWidth": 912,
+      "clientWidth": 912,
+      "images": true,
+      "badLinks": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "images": true,
+      "badLinks": []
+    }
+  ],
+  "errors": [],
+  "checks": [
+    [
+      "family tab",
+      true
+    ],
+    [
+      "keyboard next",
+      true
+    ],
+    [
+      "keyboard home",
+      true
+    ],
+    [
+      "keyboard end",
+      true
+    ],
+    [
+      "no JS scenes visible",
+      true
+    ],
+    [
+      "no JS controls hidden",
+      true
+    ],
+    [
+      "reduced motion",
+      true
+    ],
+    [
+      "200% text no overflow",
+      true
+    ],
+    [
+      "local file opens",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,494 @@
+[
+  {
+    "name": "hero",
+    "title": "Lakeland.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lakeland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lakeland.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29039652",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2014-03-19 20:26:37",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lakeland",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon PowerShot SX50 HS|Lakeland Terrier|Self-published work|Conformational side views of dogs|Dogs of Tallinn",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Tallinn, Estonia, duo CACIB 2013, August 17-18",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-08-18 17:42:37",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%A2%D0%BE%D0%BC%D0%B0%D1%81%D0%B8%D0%BD%D0%B0\" title=\"User:Томасина\">Томасина</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "name": "portrait",
+    "title": "Hughie - Lakeland Terrier.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hughie_-_Lakeland_Terrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hughie_-_Lakeland_Terrier.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31137809",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2014-02-12 19:26:28",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hughie - Lakeland Terrier",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lakeland Terrier|Self-published work|Media needing category review as of 27 February 2014",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Virginia Purebred - Hollybriar Natural High",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-02-12 14:20:52",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hoppyh\" title=\"User:Hoppyh\">Hoppyh</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "name": "wheaten",
+    "title": "Lakeland-wheaten.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lakeland-wheaten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lakeland-wheaten.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76235988",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2019-01-31 13:31:16",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lakeland-wheaten",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lakeland Terrier|Fawn dogs|Female dogs|Self-published work|Standing dogs",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Lakeland Terrier wheaten female, BIS1 (puppy class)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-12-15 16:31:26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Canarian\" title=\"User:Canarian\">Canarian</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "name": "friend",
+    "title": "Lakeland Terrier Flickr.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lakeland_Terrier_Flickr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lakeland_Terrier_Flickr.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1582359",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2014-03-19 20:23:10",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lakeland Terrier Flickr",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lakeland Terrier|Flickr images reviewed by trusted users",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A Lakeland Terrier.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2005-05-08",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Flickr <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/puppala/13020156/\">here</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Flickr user <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/puppala/\">Srinayan Puppala</a> (TigerPuppala)",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "name": "lakes",
+    "title": "Lake District - Dry Stone Walls & Lake Windermere.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lake_District_-_Dry_Stone_Walls_%26_Lake_Windermere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lake_District_-_Dry_Stone_Walls_%26_Lake_Windermere.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167973318",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-06-18 19:33:28",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lake District - Dry Stone Walls & Lake Windermere",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Protected areas of England|Self-published work|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth 2025|Images from Wiki Loves Earth 2025 in the United Kingdom|Images from Wiki Loves Earth 2025 in England|Uploaded via Campaign:wle-gb-eng",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Lake District - Dry Stone Walls &amp; Lake Windermere",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-05-10 13:50:01",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:TheMaverickMan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:TheMaverickMan (page does not exist)\">TheMaverickMan</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "name": "hills",
+    "title": "Hills in the Lake District, near Brant Fell Viewpoint.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hills_in_the_Lake_District%2C_near_Brant_Fell_Viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hills_in_the_Lake_District,_near_Brant_Fell_Viewpoint.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=171189238",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-07-31 22:00:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hills in the Lake District, near Brant Fell Viewpoint",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lake District|Self-published work|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth 2025|Images from Wiki Loves Earth 2025 in the United Kingdom|Images from Wiki Loves Earth 2025 in England|Uploaded via Campaign:wle-gb-eng|Images from Wiki Loves Earth 2025 Human Rights and Environment Special Nomination",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Some sloping hills from near Brant Fell Viewpoint in the Lake District. Some dry stone walls can be seen, characteristic of the Lake District and Cumbria.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-06-13 13:29:14",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mystery_Ray\" title=\"User:Mystery Ray\">Mystery Ray</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]

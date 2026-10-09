@@ -1,0 +1,62 @@
+[
+  {
+    "width": 360,
+    "scrollWidth": 360,
+    "imageWidth": 320,
+    "textWidth": 320,
+    "imageLoaded": true
+  },
+  {
+    "width": 360,
+    "zoom": 200,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "imageWidth": 350,
+    "textWidth": 350,
+    "imageLoaded": true
+  },
+  {
+    "width": 390,
+    "zoom": 200,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "imageWidth": 728,
+    "textWidth": 560,
+    "imageLoaded": true
+  },
+  {
+    "width": 768,
+    "zoom": 200,
+    "overflow": false
+  },
+  {
+    "width": 912,
+    "scrollWidth": 912,
+    "imageWidth": 522.25,
+    "textWidth": 293.75,
+    "imageLoaded": true
+  },
+  {
+    "width": 912,
+    "zoom": 200,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "imageWidth": 788.484375,
+    "textWidth": 443.515625,
+    "imageLoaded": true
+  },
+  {
+    "width": 1440,
+    "zoom": 200,
+    "overflow": false
+  }
+]

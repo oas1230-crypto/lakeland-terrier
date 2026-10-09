@@ -1,0 +1,32 @@
+[
+  {
+    "width": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "width": 390,
+    "zoom": 200,
+    "overflow": true
+  },
+  {
+    "width": 912,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "width": 912,
+    "zoom": 200,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "width": 1440,
+    "zoom": 200,
+    "overflow": false
+  }
+]
