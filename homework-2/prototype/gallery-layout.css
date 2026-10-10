@@ -1,0 +1,35 @@
+/* Complete each gallery row while retaining each direction's composition. */
+@media(min-width:761px){
+  html[data-design=journal] .art-gallery figure:nth-last-child(-n+2){grid-column:span 2}
+  html[data-design=journal] .owner-grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+  html[data-design=journal] .owner-grid figure{grid-column:span 2}
+  html[data-design=journal] .owner-grid figure:nth-last-child(-n+2){grid-column:span 3}
+  html[data-design=trails] .art-gallery{grid-template-columns:repeat(6,minmax(0,1fr))}
+  html[data-design=trails] .art-gallery figure:nth-child(n){grid-column:span 2}
+  html[data-design=trails] .art-gallery .gallery-home{grid-column:span 4!important}
+  html[data-design=trails] .art-gallery figure:nth-last-child(-n+2){grid-column:span 3}
+  html[data-design=trails] .owner-grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+  html[data-design=trails] .owner-grid figure:nth-child(n){grid-column:span 2}
+  html[data-design=trails] .owner-grid figure:nth-last-child(-n+4){grid-column:span 3}
+}
+@media(min-width:1021px){
+  html[data-design=trails] .owner-grid{grid-template-columns:repeat(12,minmax(0,1fr))}
+  html[data-design=trails] .owner-grid figure:nth-child(n){grid-column:span 3}
+  html[data-design=trails] .owner-grid figure:nth-last-child(-n+3){grid-column:span 4}
+}
+@media(min-width:901px){
+  .magic-album .art-gallery,.magic-album .owner-grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+  .magic-album .art-gallery figure:nth-child(n),.magic-album .owner-grid figure:nth-child(n){grid-column:span 2}
+  .magic-album .art-gallery figure:nth-last-child(-n+2){grid-column:span 3;transform:none}
+  .magic-album .owner-grid figure:nth-last-child(-n+4){grid-column:span 3}
+}
+@media(max-width:900px){
+  .magic-album .owner-grid figure:nth-child(n){grid-column:auto;grid-row:auto}
+  .magic-album .owner-grid figure.owner-forest{grid-column:1/-1}
+  .magic-album .owner-grid .owner-forest img{height:auto;aspect-ratio:4/3;object-fit:cover}
+}
+@media(max-width:760px){
+  html[data-design=journal] .owner-grid figure:nth-child(n),html[data-design=trails] .owner-grid figure:nth-child(n){grid-column:auto;grid-row:auto}
+  html[data-design=journal] .owner-grid figure.owner-forest,html[data-design=trails] .owner-grid figure.owner-forest{grid-column:1/-1}
+  html[data-design=journal] .owner-grid .owner-forest img,html[data-design=trails] .owner-grid .owner-forest img{height:auto;aspect-ratio:4/3;object-fit:cover}
+}

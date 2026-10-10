@@ -1,0 +1,252 @@
+{
+  "layouts": [
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 1111,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 1111
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 1111,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 1111
+    },
+    {
+      "design": "album",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 1111,
+      "sections": [
+        "home",
+        "together",
+        "history",
+        "working",
+        "character",
+        "care",
+        "album-story",
+        "camp"
+      ],
+      "width": 1111
+    },
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 768
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 768
+    },
+    {
+      "design": "album",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "sections": [
+        "home",
+        "together",
+        "history",
+        "working",
+        "character",
+        "care",
+        "album-story",
+        "camp"
+      ],
+      "width": 768
+    },
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 390,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 390
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 390,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 390
+    },
+    {
+      "design": "album",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 390,
+      "sections": [
+        "home",
+        "together",
+        "history",
+        "working",
+        "character",
+        "care",
+        "album-story",
+        "camp"
+      ],
+      "width": 390
+    },
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 360
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 360
+    },
+    {
+      "design": "album",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "sections": [
+        "home",
+        "together",
+        "history",
+        "working",
+        "character",
+        "care",
+        "album-story",
+        "camp"
+      ],
+      "width": 360
+    }
+  ],
+  "fonts": [
+    {
+      "design": "journal",
+      "body": "\"Source Sans 3\", Arial, sans-serif",
+      "cyrillicReady": true,
+      "heading": "Lora, Georgia, serif"
+    },
+    {
+      "design": "trails",
+      "body": "\"Golos Text\", Arial, sans-serif",
+      "cyrillicReady": true,
+      "heading": "\"Golos Text\", Arial, sans-serif"
+    },
+    {
+      "design": "album",
+      "body": "\"PT Sans\", Arial, sans-serif",
+      "cyrillicReady": true,
+      "heading": "\"PT Serif\", Georgia, serif"
+    }
+  ]
+}

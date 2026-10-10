@@ -1,0 +1,79 @@
+[
+  {
+    "headingFits": true,
+    "headingFont": "56px",
+    "heroColumns": "422.094px 685.906px",
+    "heroWidth": 662,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 668,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "headingFits": true,
+    "headingFont": "48.884px",
+    "heroColumns": "369.898px 601.102px",
+    "heroWidth": 577,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 582,
+    "scrollWidth": 1111,
+    "width": 1111
+  },
+  {
+    "headingFits": true,
+    "headingFont": "40px",
+    "heroColumns": "289.898px 471.102px",
+    "heroWidth": 447,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 449,
+    "scrollWidth": 901,
+    "width": 901
+  },
+  {
+    "headingFits": true,
+    "headingFont": "43px",
+    "heroColumns": "308.914px 376.086px",
+    "heroWidth": 352,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 357,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "headingFits": true,
+    "headingFont": "54px",
+    "heroColumns": "584px",
+    "heroWidth": 568,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 560,
+    "scrollWidth": 620,
+    "width": 620
+  },
+  {
+    "headingFits": true,
+    "headingFont": "40.95px",
+    "heroColumns": "354px",
+    "heroWidth": 338,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 330,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "headingFits": true,
+    "headingFont": "39px",
+    "heroColumns": "324px",
+    "heroWidth": 308,
+    "imageFit": "contain",
+    "overflow": false,
+    "sceneWidth": 300,
+    "scrollWidth": 360,
+    "width": 360
+  }
+]

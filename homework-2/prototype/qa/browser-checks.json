@@ -1,0 +1,209 @@
+{
+  "layouts": [
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 1111,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 1111
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 1111,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 1111
+    },
+    {
+      "design": "original",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 1111,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 1111
+    },
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 390,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 390
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 390,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 390
+    },
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 360
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 360
+    },
+    {
+      "design": "journal",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 768
+    },
+    {
+      "design": "trails",
+      "anchors": [],
+      "brokenVisibleImages": [],
+      "h1": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "sections": [
+        "home",
+        "history",
+        "working",
+        "character",
+        "care",
+        "together",
+        "album-story",
+        "camp"
+      ],
+      "width": 768
+    }
+  ],
+  "interactions": [
+    {
+      "check": "rest scene default",
+      "pass": true
+    },
+    {
+      "check": "tab Home",
+      "pass": true
+    },
+    {
+      "check": "tab ArrowRight",
+      "pass": true
+    },
+    {
+      "check": "sleep photo opens",
+      "pass": true
+    },
+    {
+      "check": "album next",
+      "pass": true
+    },
+    {
+      "check": "album Escape",
+      "pass": true
+    },
+    {
+      "check": "original available",
+      "pass": true
+    },
+    {
+      "check": "same section on switch",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "cssSource": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500&family=Golos+Text:wght@400;500;600&family=PT+Serif:wght@400;700&family=PT+Sans:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap",
+  "files": [
+    {
+      "family": "Golos Text",
+      "file": "golos-text-ca3e3dc5c4.woff2",
+      "source": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcEx58hK5SAMqbpw.woff2",
+      "bytes": 17532
+    },
+    {
+      "family": "Golos Text",
+      "file": "golos-text-b47699e8a7.woff2",
+      "source": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcExd8hK5SAMqbpw.woff2",
+      "bytes": 22028
+    },
+    {
+      "family": "Golos Text",
+      "file": "golos-text-b99c437e91.woff2",
+      "source": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcEx18hK5SAMqbpw.woff2",
+      "bytes": 19204
+    },
+    {
+      "family": "Golos Text",
+      "file": "golos-text-455e412240.woff2",
+      "source": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcExN8hK5SAMo.woff2",
+      "bytes": 38084
+    },
+    {
+      "family": "Lora",
+      "file": "lora-bd6a4f66f7.woff2",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwf7I_FMl_GW8g.woff2",
+      "bytes": 23588
+    },
+    {
+      "family": "Lora",
+      "file": "lora-309f9ad2cb.woff2",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMw77I_FMl_GW8g.woff2",
+      "bytes": 21252
+    },
+    {
+      "family": "Lora",
+      "file": "lora-12f3715b5e.woff2",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwT7I_FMl_GW8g.woff2",
+      "bytes": 20176
+    },
+    {
+      "family": "Lora",
+      "file": "lora-8d3a5f5ecb.woff2",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7I_FMl_E.woff2",
+      "bytes": 37792
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-877804c16d.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0-ExcOPIDUg-g.woff2",
+      "bytes": 8716
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-6b0bd35941.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0aExcOPIDUg-g.woff2",
+      "bytes": 7252
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-055d6b1bbc.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0yExcOPIDUg-g.woff2",
+      "bytes": 7492
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-afdce8abcd.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0KExcOPIDU.woff2",
+      "bytes": 11464
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-20664d5d48.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0OOtLR8a8zILig.woff2",
+      "bytes": 8712
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-0b0aac736b.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0OqtLR8a8zILig.woff2",
+      "bytes": 7276
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-47a70bd288.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0OCtLR8a8zILig.woff2",
+      "bytes": 7504
+    },
+    {
+      "family": "PT Sans",
+      "file": "pt-sans-28b1accf15.woff2",
+      "source": "https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0O6tLR8a8zI.woff2",
+      "bytes": 11624
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-bb8c616a63.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRVQgYoZZY2vCFuvAFbzr-_dSb_nco.woff2",
+      "bytes": 11292
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-de60a893a9.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRVQgYoZZY2vCFuvAFSzr-_dSb_nco.woff2",
+      "bytes": 9348
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-2282f17bdc.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRVQgYoZZY2vCFuvAFYzr-_dSb_nco.woff2",
+      "bytes": 8632
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-9c9e7a681c.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRVQgYoZZY2vCFuvAFWzr-_dSb_.woff2",
+      "bytes": 13400
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-6fcb4484fa.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qfVyvVp8NAyIw.woff2",
+      "bytes": 11404
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-2d9ee6487e.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qWVyvVp8NAyIw.woff2",
+      "bytes": 9516
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-f1b0bffe3e.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qcVyvVp8NAyIw.woff2",
+      "bytes": 8752
+    },
+    {
+      "family": "PT Serif",
+      "file": "pt-serif-4e02088d4a.woff2",
+      "source": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qSVyvVp8NA.woff2",
+      "bytes": 13540
+    },
+    {
+      "family": "Source Sans 3",
+      "file": "source-sans-3-d3a45c1287.woff2",
+      "source": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpStKy2OAdR1K-IwhWudF-R3wIaZejf5HdF8Q.woff2",
+      "bytes": 10636
+    },
+    {
+      "family": "Source Sans 3",
+      "file": "source-sans-3-c6c9aaa23c.woff2",
+      "source": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpStKy2OAdR1K-IwhWudF-R3wsaZejf5HdF8Q.woff2",
+      "bytes": 18400
+    },
+    {
+      "family": "Source Sans 3",
+      "file": "source-sans-3-8634654240.woff2",
+      "source": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpStKy2OAdR1K-IwhWudF-R3wEaZejf5HdF8Q.woff2",
+      "bytes": 60048
+    },
+    {
+      "family": "Source Sans 3",
+      "file": "source-sans-3-5e696b61a4.woff2",
+      "source": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpStKy2OAdR1K-IwhWudF-R3w8aZejf5Hc.woff2",
+      "bytes": 28804
+    }
+  ],
+  "licenses": [
+    "lora",
+    "golostext",
+    "ptserif",
+    "ptsans",
+    "sourcesans3"
+  ]
+}

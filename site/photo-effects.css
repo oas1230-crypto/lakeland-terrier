@@ -1,0 +1,17 @@
+/* A quiet invitation to open each photo, without moving its frame. */
+.photo-link{overflow:hidden}
+.image-open{transform:translateY(3px);transition:opacity .22s ease,transform .25s ease}
+.photo-link:hover .image-open,.photo-link:focus-visible .image-open{transform:none}
+html[data-design=trails] .hero-trails .photo-link{border-radius:8px 8px 0 0}
+html[data-design=trails] :is(.history-photo,.character-photo,.care-photo,.scene,.art-gallery) .photo-link{border-radius:8px}
+html[data-design=trails] .owner-grid .photo-link{border-radius:6px}
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){
+  .photo-link>img{transition:transform .7s ease;transform-origin:center}
+  .photo-link:hover>img{transform:scale(1.02)}
+}
+@media(hover:none),(pointer:coarse){
+  .photo-link .image-open{opacity:1;transform:none}
+}
+@media(prefers-reduced-motion:reduce){
+  .photo-link>img,.image-open{transition:none!important;transform:none!important}
+}

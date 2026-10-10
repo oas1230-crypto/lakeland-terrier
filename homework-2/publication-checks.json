@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "html": 5,
+    "css": 8,
+    "local_references": 316
+  },
+  "missing_resources": [],
+  "default_design": "trails",
+  "previous_publication_commit": "4d139a0"
+}

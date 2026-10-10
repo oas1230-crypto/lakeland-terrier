@@ -1,0 +1,592 @@
+{
+  "galleryChecks": [
+    {
+      "route": "original/index.html",
+      "galleries": [
+        {
+          "columns": "317.297px 317.305px 317.305px",
+          "count": 4,
+          "gridWidth": 1000,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "span 2"
+          ],
+          "lastRowWidth": 1000,
+          "selector": ".owner-album-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 1111
+    },
+    {
+      "route": "story.html",
+      "galleries": [
+        {
+          "columns": "238.75px 238.75px 238.75px 238.75px",
+          "count": 8,
+          "gridWidth": 1015,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 2",
+            "span 2"
+          ],
+          "lastRowWidth": 1016,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "149.164px 149.164px 149.172px 149.164px 149.164px 149.164px",
+          "count": 7,
+          "gridWidth": 1015,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 1016,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 1111
+    },
+    {
+      "route": "story-trails.html",
+      "galleries": [
+        {
+          "columns": "148.5px 148.5px 148.5px 148.5px 148.5px 148.5px",
+          "count": 8,
+          "gridWidth": 1031,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 1032,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "63.9141px 63.9141px 63.9141px 63.9141px 63.9141px 63.9141px 63.9141px 63.9141px 63.9219px 63.9141px 63.9141px 63.9141px",
+          "count": 7,
+          "gridWidth": 1031,
+          "lastRowCount": 3,
+          "lastRowSpans": [
+            "span 4",
+            "span 4",
+            "span 4"
+          ],
+          "lastRowWidth": 1032,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 1111
+    },
+    {
+      "route": "story-album.html",
+      "galleries": [
+        {
+          "columns": "145.5px 145.5px 145.5px 145.5px 145.5px 145.5px",
+          "count": 8,
+          "gridWidth": 1023,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 1024,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "143.828px 143.828px 143.828px 143.836px 143.828px 143.828px",
+          "count": 7,
+          "gridWidth": 1023,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 1023,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 1111
+    },
+    {
+      "route": "original/index.html",
+      "galleries": [
+        {
+          "columns": "254.297px 254.305px 254.297px",
+          "count": 4,
+          "gridWidth": 811,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "span 2"
+          ],
+          "lastRowWidth": 811,
+          "selector": ".owner-album-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 901
+    },
+    {
+      "route": "story.html",
+      "galleries": [
+        {
+          "columns": "186.25px 186.25px 186.25px 186.25px",
+          "count": 8,
+          "gridWidth": 805,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 2",
+            "span 2"
+          ],
+          "lastRowWidth": 806,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "114.164px 114.164px 114.164px 114.172px 114.164px 114.164px",
+          "count": 7,
+          "gridWidth": 805,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 805,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 901
+    },
+    {
+      "route": "story-trails.html",
+      "galleries": [
+        {
+          "columns": "113.5px 113.5px 113.5px 113.5px 113.5px 113.5px",
+          "count": 8,
+          "gridWidth": 821,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 822,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "116.828px 116.828px 116.836px 116.828px 116.836px 116.836px",
+          "count": 7,
+          "gridWidth": 821,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 822,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 901
+    },
+    {
+      "route": "story-album.html",
+      "galleries": [
+        {
+          "columns": "110.5px 110.5px 110.5px 110.5px 110.5px 110.5px",
+          "count": 8,
+          "gridWidth": 813,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 814,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "108.828px 108.828px 108.836px 108.828px 108.836px 108.836px",
+          "count": 7,
+          "gridWidth": 813,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 814,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 901
+    },
+    {
+      "route": "original/index.html",
+      "galleries": [
+        {
+          "columns": "214.398px 214.398px 214.406px",
+          "count": 4,
+          "gridWidth": 691,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "span 2"
+          ],
+          "lastRowWidth": 691,
+          "selector": ".owner-album-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "route": "story.html",
+      "galleries": [
+        {
+          "columns": "153px 153px 153px 153px",
+          "count": 8,
+          "gridWidth": 672,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 2",
+            "span 2"
+          ],
+          "lastRowWidth": 672,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "92px 92px 92px 92px 92px 92px",
+          "count": 7,
+          "gridWidth": 672,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 672,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "route": "story-trails.html",
+      "galleries": [
+        {
+          "columns": "91.3281px 91.3281px 91.3359px 91.3281px 91.3359px 91.3359px",
+          "count": 8,
+          "gridWidth": 688,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 688,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "94.6641px 94.6641px 94.6641px 94.6719px 94.6641px 94.6641px",
+          "count": 7,
+          "gridWidth": 688,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "span 3",
+            "span 3"
+          ],
+          "lastRowWidth": 688,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "route": "story-album.html",
+      "galleries": [
+        {
+          "columns": "345px 345px",
+          "count": 8,
+          "gridWidth": 720,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 720,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "344px 344px",
+          "count": 7,
+          "gridWidth": 720,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 720,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "route": "original/index.html",
+      "galleries": [
+        {
+          "columns": "167.5px 167.5px",
+          "count": 4,
+          "gridWidth": 351,
+          "lastRowCount": 1,
+          "lastRowSpans": [
+            "span 2"
+          ],
+          "lastRowWidth": 351,
+          "selector": ".owner-album-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "story.html",
+      "galleries": [
+        {
+          "columns": "173px 173px",
+          "count": 8,
+          "gridWidth": 358,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 358,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "171px 171px",
+          "count": 7,
+          "gridWidth": 358,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 358,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "story-trails.html",
+      "galleries": [
+        {
+          "columns": "171px 171px",
+          "count": 8,
+          "gridWidth": 358,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 358,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "171px 171px",
+          "count": 7,
+          "gridWidth": 358,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 358,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "story-album.html",
+      "galleries": [
+        {
+          "columns": "169.5px 169.5px",
+          "count": 8,
+          "gridWidth": 354,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 355,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "168px 168px",
+          "count": 7,
+          "gridWidth": 354,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 354,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "original/index.html",
+      "galleries": [
+        {
+          "columns": "154px 154px",
+          "count": 4,
+          "gridWidth": 324,
+          "lastRowCount": 1,
+          "lastRowSpans": [
+            "span 2"
+          ],
+          "lastRowWidth": 324,
+          "selector": ".owner-album-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "route": "story.html",
+      "galleries": [
+        {
+          "columns": "158px 158px",
+          "count": 8,
+          "gridWidth": 328,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 328,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "156px 156px",
+          "count": 7,
+          "gridWidth": 328,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 328,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "route": "story-trails.html",
+      "galleries": [
+        {
+          "columns": "156px 156px",
+          "count": 8,
+          "gridWidth": 328,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 328,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "156px 156px",
+          "count": 7,
+          "gridWidth": 328,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 328,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "route": "story-album.html",
+      "galleries": [
+        {
+          "columns": "154.5px 154.5px",
+          "count": 8,
+          "gridWidth": 324,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 325,
+          "selector": ".art-gallery"
+        },
+        {
+          "columns": "153px 153px",
+          "count": 7,
+          "gridWidth": 324,
+          "lastRowCount": 2,
+          "lastRowSpans": [
+            "auto",
+            "auto"
+          ],
+          "lastRowWidth": 324,
+          "selector": ".owner-grid"
+        }
+      ],
+      "overflow": false,
+      "width": 360
+    }
+  ],
+  "mobileDesignSwitches": [
+    {
+      "name": "Исходное",
+      "url": "http://127.0.0.1:4175/?design=original",
+      "src": "original/index.html"
+    },
+    {
+      "name": "Фотожурнал",
+      "url": "http://127.0.0.1:4175/?design=journal",
+      "src": "story.html?design=journal"
+    },
+    {
+      "name": "Озёрные тропы",
+      "url": "http://127.0.0.1:4175/?design=trails",
+      "src": "story-trails.html"
+    },
+    {
+      "name": "Тихие минуты",
+      "url": "http://127.0.0.1:4175/?design=album",
+      "src": "story-album.html"
+    }
+  ],
+  "loadedCareQA": {
+    "overflow": false,
+    "photoHeight": 539,
+    "secondImageLoaded": true,
+    "textHeight": 539,
+    "width": 1111
+  }
+}

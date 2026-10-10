@@ -1,0 +1,10 @@
+/* Three calm typographic identities; font files are bundled locally. */
+html[data-design=journal]{--serif:'Lora',Georgia,serif;--sans:'Source Sans 3',Arial,sans-serif}
+html[data-design=journal] h1,html[data-design=journal] h2{letter-spacing:-.035em}
+html[data-design=trails]{--serif:'Golos Text',Arial,sans-serif;--sans:'Golos Text',Arial,sans-serif}
+html[data-design=trails] h1,html[data-design=trails] h2,html[data-design=trails] h3{font-weight:500;letter-spacing:-.04em}
+html[data-design=trails] .brand{font-weight:500;letter-spacing:-.04em}
+html[data-design=trails] .brand small{font-weight:400;letter-spacing:0}
+.magic-album{--serif:'PT Serif',Georgia,serif;--sans:'PT Sans',Arial,sans-serif;font-family:var(--sans)}
+.magic-album h1,.magic-album h2,.magic-album h3{font-family:var(--serif);letter-spacing:-.025em}
+.magic-album .hero-intro p{line-height:1.7}

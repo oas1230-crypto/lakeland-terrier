@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Исходное",
+    "src": "original/index.html",
+    "page": {
+      "heading": "Маленькая собака.\nБольшой мир\nрядом.",
+      "heroImageLoaded": true,
+      "overflow": false
+    }
+  },
+  {
+    "label": "Озёрные тропы",
+    "src": "story-trails.html",
+    "page": {
+      "heading": "Большой мир\nмаленького терьера.",
+      "heroImageLoaded": true,
+      "overflow": false
+    }
+  },
+  {
+    "label": "Фотожурнал",
+    "src": "story.html?design=journal",
+    "page": {
+      "heading": "Знакомые тропы.\nНовые истории.",
+      "heroImageLoaded": true,
+      "overflow": false
+    }
+  },
+  {
+    "label": "Тихие минуты",
+    "src": "story-album.html",
+    "page": {
+      "heading": "Маленький друг.\nБольшая жизнь рядом.",
+      "heroImageLoaded": true,
+      "overflow": false
+    }
+  }
+]
