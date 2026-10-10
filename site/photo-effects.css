@@ -12,6 +12,15 @@ html[data-design=trails] .owner-grid .photo-link{border-radius:6px}
 @media(hover:none),(pointer:coarse){
   .photo-link .image-open{opacity:1;transform:none}
 }
+@media(max-width:760px){
+  .photo-link .image-open{
+    display:grid;place-items:center;width:28px;height:28px;
+    padding:0;right:7px;bottom:7px;border-radius:50%;
+    font-size:0;line-height:1;background:#fffef9eb;
+    opacity:1;transform:none;
+  }
+  .photo-link .image-open::after{content:'↗';font-size:16px;line-height:1}
+}
 @media(prefers-reduced-motion:reduce){
   .photo-link>img,.image-open{transition:none!important;transform:none!important}
 }
