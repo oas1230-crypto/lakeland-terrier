@@ -29,3 +29,8 @@
   .compare-bar button{transition:none}
   .compare-bar button:hover,.compare-bar button:active{transform:none}
 }
+
+/* Phones open the single Trails design; the comparison toolbar is desktop UI. */
+@media(max-width:760px), (max-width:960px) and (pointer:coarse){
+  .compare-bar,.fallback{display:none}
+}

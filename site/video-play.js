@@ -33,11 +33,24 @@
     });
     video.addEventListener('volumechange', updateSound);
     updateSound();
-    const update = () => { button.hidden = !video.paused && !video.ended; };
+    // Safari supplies a central start button while controls are enabled and the
+    // video has never played. Use our invitation first, then native controls.
+    // Without JavaScript the controls attribute in the HTML remains available.
+    let nativeFallback = false;
+    const update = () => { button.hidden = nativeFallback || (!video.paused && !video.ended); };
+    const fallback = () => {
+      nativeFallback = true;
+      video.controls = true;
+      update();
+    };
+    video.addEventListener('play', () => { video.controls = true; });
+    video.addEventListener('error', fallback);
     ['play', 'pause', 'ended', 'error'].forEach(event => video.addEventListener(event, update));
     button.addEventListener('click', () => {
-      video.play().catch(() => { button.hidden = false; });
+      video.play().catch(fallback);
     });
+    video.controls = false;
+    if (video.error) fallback();
     update();
   });
 })();
