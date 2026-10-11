@@ -1,0 +1,30 @@
+[
+  {
+    "overflow": false,
+    "photoNaturalWidth": 360,
+    "photoWidth": 271.135498046875,
+    "videoRadius": "180px",
+    "width": 360
+  },
+  {
+    "overflow": false,
+    "photoNaturalWidth": 360,
+    "photoWidth": 300.49102783203125,
+    "videoRadius": "180px",
+    "width": 393
+  },
+  {
+    "overflow": false,
+    "photoNaturalWidth": 360,
+    "photoWidth": 320.71343994140625,
+    "videoRadius": "180px",
+    "width": 440
+  },
+  {
+    "overflow": false,
+    "photoNaturalWidth": 360,
+    "photoWidth": 292.8583984375,
+    "videoRadius": "180px",
+    "width": 768
+  }
+]

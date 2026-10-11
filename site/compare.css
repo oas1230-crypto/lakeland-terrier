@@ -1,3 +1,31 @@
 *{box-sizing:border-box}html,body{height:100%;margin:0}body{display:flex;flex-direction:column;background:#f2f4ef;color:#20352c;font:14px/1.4 Arial,sans-serif}.compare-bar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:12px 24px;border-bottom:1px solid #ccd5cc;background:#fff;flex-shrink:0}.compare-title{display:flex;align-items:baseline;gap:14px}.compare-title strong{font:24px Georgia,serif}.compare-title span{color:#526457;font-size:12px}nav{display:flex;padding:4px;background:#eff3ee;border-radius:30px;gap:3px}button{border:0;padding:10px 18px;border-radius:24px;background:transparent;color:#304437;font:inherit;cursor:pointer;white-space:nowrap}button[aria-pressed=true]{background:#20352c;color:#fff}button:hover:not([aria-pressed=true]){background:#dfe8dd}a{color:#34493c;text-underline-offset:4px;font-size:12px}button:focus-visible,a:focus-visible{outline:3px solid #8c5b19;outline-offset:3px}main{flex:1;min-height:0}iframe{width:100%;height:100%;border:0;display:block;background:#f2f4ef}.sr-only{position:absolute;width:1px;height:1px;clip-path:inset(50%);overflow:hidden}.fallback{position:absolute;bottom:10px;background:#fff;padding:12px}@media(max-width:880px){.compare-title span{display:none}.compare-bar{gap:10px;padding:10px 14px}button{padding:10px 14px}}@media(max-width:620px){.compare-bar{flex-wrap:wrap;justify-content:center;gap:8px;padding:9px 8px}.compare-title{width:100%;justify-content:center}.compare-title strong{font-size:19px}.compare-title:after{content:'Выберите оформление';font-size:11px;color:#526457}.compare-bar>a{display:none}nav{max-width:100%}button{font-size:12px;padding:10px 12px}}
 
 @media(max-width:620px){.compare-bar nav{display:grid;grid-template-columns:1fr 1fr;width:100%;max-width:380px;border-radius:18px}.compare-bar button{padding:8px 10px;font-size:12px}}
+
+@media(min-width:621px) and (max-width:1200px){.compare-bar{flex-wrap:wrap}.compare-bar nav{order:3;width:100%;justify-content:center}.compare-title span{display:inline}}
+@media(max-width:620px){.compare-bar button:last-child{grid-column:1 / -1}}
+
+/* Quiet feedback shared by every design. Transforms leave the layout still. */
+.compare-bar button{
+  transition:background-color .24s ease,color .24s ease,box-shadow .24s ease,
+    border-radius .24s ease,transform .24s cubic-bezier(.2,.7,.3,1);
+  -webkit-tap-highlight-color:transparent;
+}
+.compare-bar button[aria-pressed=true]{
+  background:#334e42;
+  border-radius:18px;
+  box-shadow:0 3px 8px #20352c20,inset 0 0 0 1px #ffffff18;
+}
+@media(hover:hover) and (pointer:fine){
+  .compare-bar button:hover:not([aria-pressed=true]){
+    background:#e0e9df;
+    box-shadow:0 3px 8px #20352c12,inset 0 0 0 1px #536b4d12;
+    transform:translateY(-2px);
+  }
+  .compare-bar button:hover[aria-pressed=true]{background:#3e5c4f}
+}
+.compare-bar button:active{transform:translateY(1px) scale(.97)}
+@media(prefers-reduced-motion:reduce){
+  .compare-bar button{transition:none}
+  .compare-bar button:hover,.compare-bar button:active{transform:none}
+}

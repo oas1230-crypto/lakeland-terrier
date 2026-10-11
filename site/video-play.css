@@ -1,0 +1,18 @@
+/* Shared invitation for the four new designs; native video controls remain available. */
+.video-invitation{position:relative;display:block}
+.video-invitation>video{display:block;width:100%}
+.video-play-button{position:absolute;top:54%;left:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:58px;height:58px;padding:0;border:1px solid #ffffff40;border-radius:50%;background:#173e331f;color:#ffffff73;cursor:pointer;box-shadow:none;transition:background .2s ease,color .2s ease}
+.video-play-button svg{width:23px;height:25px;margin-left:3px;fill:currentColor;pointer-events:none}
+.video-play-button[hidden]{display:none!important}
+.video-play-button:focus-visible{outline:3px solid #fff;outline-offset:4px;background:#173e3380}
+@media(hover:hover) and (pointer:fine){.video-play-button:hover{background:#173e3340;color:#ffffffd9}}
+.video-play-button:active{background:#173e337a}
+@media(max-width:760px){.video-play-button{width:52px;height:52px}.video-play-button svg{width:21px;height:23px}}
+@media(prefers-reduced-motion:reduce){.video-play-button{transition:none}}
+
+.video-sound-button{position:absolute;left:50%;bottom:64px;transform:translateX(-50%);display:flex;align-items:center;justify-content:center;gap:7px;width:max-content;max-width:calc(100% - 20px);padding:8px 12px;min-height:36px;border:1px solid #ffffff40;border-radius:20px;background:#173e3333;color:#ffffffb3;text-shadow:0 1px 3px #0f302b73;font:12px/1.2 'Golos Text',sans-serif;cursor:pointer;transition:background .2s ease}
+.video-sound-button svg{width:17px;height:17px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.video-sound-button:focus-visible{outline:3px solid #fff;outline-offset:3px}
+@media(hover:hover) and (pointer:fine){.video-sound-button:hover{background:#173e3373;color:#ffffffeb}}
+.video-sound-button:active{background:#173e33b3}
+@media(prefers-reduced-motion:reduce){.video-sound-button{transition:none}}

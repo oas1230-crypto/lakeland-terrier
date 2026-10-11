@@ -1,0 +1,9 @@
+/* User-triggered feedback shared by the three new designs with scene tabs. */
+.scene-tabs button{transition:background .24s ease,color .24s ease,border-color .24s ease,box-shadow .24s ease,transform .24s ease,border-radius .24s ease}
+.scene-tabs button[aria-selected=true]{border-radius:18px;box-shadow:inset 0 1px 0 #ffffff26,0 3px 9px #223e2d12}
+@media(hover:hover) and (pointer:fine){
+.scene-tabs button:not([aria-selected=true]):hover{background:#76957b1f;border-color:#78917d;transform:translateY(-2px)}
+.scene-tabs button[aria-selected=true]:hover{filter:brightness(1.12);transform:translateY(-1px)}
+}
+.scene-tabs button:active{transform:translateY(1px) scale(.98)}
+@media(prefers-reduced-motion:reduce){.scene-tabs button{transition:none}.scene-tabs button:hover,.scene-tabs button:active{transform:none}}

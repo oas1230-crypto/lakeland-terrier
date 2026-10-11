@@ -1,0 +1,89 @@
+{
+  "layout": [
+    {
+      "historicalFit": "contain",
+      "historyHeading": true,
+      "overflow": false,
+      "photoLoaded": true,
+      "photoWidth": 1678,
+      "viewport": [
+        360,
+        638
+      ]
+    },
+    {
+      "historicalFit": "contain",
+      "historyHeading": true,
+      "overflow": false,
+      "photoLoaded": true,
+      "photoWidth": 1678,
+      "viewport": [
+        414,
+        734
+      ]
+    },
+    {
+      "historicalFit": "contain",
+      "historyHeading": true,
+      "overflow": false,
+      "photoLoaded": true,
+      "photoWidth": 1678,
+      "viewport": [
+        440,
+        794
+      ]
+    },
+    {
+      "historicalFit": "contain",
+      "historyHeading": true,
+      "overflow": false,
+      "photoLoaded": true,
+      "photoWidth": 1678,
+      "viewport": [
+        1280,
+        647
+      ]
+    },
+    {
+      "historicalFit": "contain",
+      "historyHeading": true,
+      "overflow": false,
+      "photoLoaded": true,
+      "photoWidth": 1678,
+      "viewport": [
+        1280,
+        727
+      ]
+    }
+  ],
+  "mobilePhotoControls": [
+    {
+      "background": "rgba(255, 254, 249, 0.6)",
+      "color": "rgb(32, 59, 50)",
+      "overflow": false,
+      "title": "Лейкленд-терьер — большой мир маленького терьера",
+      "width": 393
+    },
+    {
+      "background": "rgba(255, 254, 249, 0.6)",
+      "color": "rgb(32, 59, 50)",
+      "overflow": false,
+      "title": "Лейкленд-терьер — знакомые тропы, новые истории",
+      "width": 393
+    },
+    {
+      "background": "rgba(255, 254, 249, 0.6)",
+      "color": "rgb(32, 59, 50)",
+      "overflow": false,
+      "title": "Лейкленд-терьер — тихие минуты рядом",
+      "width": 393
+    },
+    {
+      "background": "rgba(255, 254, 249, 0.6)",
+      "color": "rgb(32, 59, 50)",
+      "overflow": false,
+      "title": "Лейкленд — день рядом",
+      "width": 393
+    }
+  ]
+}

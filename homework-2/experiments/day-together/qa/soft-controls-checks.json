@@ -1,0 +1,22 @@
+[
+  {
+    "design": "Тихие минуты",
+    "background": "rgba(255, 254, 249, 0.75)",
+    "coverTop": 290.4453125
+  },
+  {
+    "design": "Фотожурнал",
+    "background": "rgba(255, 254, 249, 0.75)",
+    "coverTop": 157.2265625
+  },
+  {
+    "design": "День рядом",
+    "background": "rgba(255, 254, 249, 0.75)",
+    "coverTop": 188.296875
+  },
+  {
+    "design": "Озёрные тропы",
+    "background": "rgba(255, 254, 249, 0.75)",
+    "coverTop": 160
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "fonts": [
+      "\"Golos Text\", Arial, sans-serif",
+      "Lora, Georgia, serif"
+    ],
+    "h1": "Пойдём вместе.",
+    "height": 4424,
+    "oversized": [],
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "fonts": [
+      "\"Golos Text\", Arial, sans-serif",
+      "Lora, Georgia, serif"
+    ],
+    "h1": "Пойдём вместе.",
+    "height": 4581,
+    "oversized": [],
+    "scrollWidth": 393,
+    "width": 393
+  },
+  {
+    "fonts": [
+      "\"Golos Text\", Arial, sans-serif",
+      "Lora, Georgia, serif"
+    ],
+    "h1": "Пойдём вместе.",
+    "height": 4804,
+    "oversized": [],
+    "scrollWidth": 440,
+    "width": 440
+  },
+  {
+    "fonts": [
+      "\"Golos Text\", Arial, sans-serif",
+      "Lora, Georgia, serif"
+    ],
+    "h1": "Пойдём\nвместе.",
+    "height": 3503,
+    "oversized": [],
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "fonts": [
+      "\"Golos Text\", Arial, sans-serif",
+      "Lora, Georgia, serif"
+    ],
+    "h1": "Пойдём\nвместе.",
+    "height": 3829,
+    "oversized": [],
+    "scrollWidth": 1111,
+    "width": 1111
+  },
+  {
+    "fonts": [
+      "\"Golos Text\", Arial, sans-serif",
+      "Lora, Georgia, serif"
+    ],
+    "h1": "Пойдём\nвместе.",
+    "height": 4079,
+    "oversized": [],
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

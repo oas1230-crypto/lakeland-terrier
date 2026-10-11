@@ -1,0 +1,115 @@
+/* An edge-to-edge lake cover, exclusive to the trails design. */
+html[data-design=trails] .masthead{position:absolute;top:0;left:0;width:100%;max-width:none;margin:0;z-index:3;padding:26px 5%;color:#243c45;background:linear-gradient(#eef3f3b3,#eef3f300)}
+html[data-design=trails] .masthead .brand small{color:#405862}
+html[data-design=trails] .hero.wrap{width:100%;max-width:none;margin:0;padding:0;position:relative;height:100svh;min-height:650px;isolation:isolate;display:block;background:#a6bdc3}
+html[data-design=trails] .hero-trails{position:absolute;inset:0;margin:0;z-index:-1}
+html[data-design=trails] .hero-trails .photo-link{height:100%;border-radius:0;overflow:hidden}
+html[data-design=trails] .hero-trails img{height:100%;width:100%;aspect-ratio:auto;object-fit:cover;object-position:center;border-radius:0;transform:none}
+html[data-design=trails] .hero-trails .photo-link:after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,#e7eef245,transparent 45%),linear-gradient(0deg,#1c30395c,transparent 15%)}
+html[data-design=trails] .hero-copy{position:relative;display:block;width:40%;margin:0 5% 0 auto;padding:160px 0 70px;gap:0;background:none;border-radius:0;pointer-events:none;color:#243c45}
+html[data-design=trails] .hero h1{font-size:clamp(42px,4.8vw,76px);line-height:1.03;letter-spacing:-.05em;font-weight:600}
+html[data-design=trails] .hero-intro{margin-top:24px;max-width:340px}
+html[data-design=trails] .hero-intro p{font-size:16px;line-height:1.6}
+html[data-design=trails] .hero .button{pointer-events:auto;background:#29454cbf;margin-top:24px}
+html[data-design=trails] .hero-trails figcaption{position:absolute;left:5%;right:65px;bottom:18px;background:none;padding:0;color:white;pointer-events:none;font-size:11px}
+html[data-design=trails] .hero-trails .image-open{right:24px;bottom:18px;font-size:0;display:grid;place-items:center;width:34px;height:34px;padding:0;border-radius:50%}
+html[data-design=trails] .hero-trails .image-open:after{content:'↗';font-size:18px}
+/* History is one continuous landscape spread, not two white sections. */
+html[data-design=trails] .history.section{padding:0;background:#e2eae7}
+html[data-design=trails] .history-scene{position:relative;isolation:isolate;background:#547568}
+html[data-design=trails] .history-photo .photo-link{border-radius:0}
+html[data-design=trails] .history-photo img{width:100%;height:560px;aspect-ratio:auto;object-fit:cover;object-position:center 45%;border-radius:0;transform:none}
+html[data-design=trails] .history-photo .photo-link:after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#163c30a6,transparent 80%);pointer-events:none}
+html[data-design=trails] .history-scene h2{position:absolute;top:70px;left:5%;right:5%;color:white;font-size:clamp(40px,4.8vw,70px);font-weight:500;pointer-events:none;max-width:650px}
+html[data-design=trails] .history-photo figcaption{margin:0;padding:14px 5%;background:#d3dfda}
+html[data-design=trails] .history-copy{display:grid;grid-template-columns:1fr 1fr;gap:18px 7%;padding-block:48px}
+html[data-design=trails] .history-copy .lead{grid-column:1;grid-row:1/4;margin:0;max-width:450px;font-size:25px}
+html[data-design=trails] .history-copy p:not(.lead),html[data-design=trails] .history-copy .text-link{grid-column:2;margin:0}
+html[data-design=trails] .working{padding:0 0 70px}
+html[data-design=trails] .working-layout{gap:38px}
+html[data-design=trails] .working-photo{max-width:100%;width:100%;margin:0}
+html[data-design=trails] .working-photo img{width:100%;height:auto;aspect-ratio:auto;object-fit:contain;transform:none}
+html[data-design=trails] .working-layout>div>h2{font-size:clamp(36px,4.4vw,60px);text-align:left}
+html[data-design=trails] .working-layout>div>.lead{text-align:left;max-width:600px;margin:20px 0 34px}
+html[data-design=trails] .timeline{margin-top:20px;gap:24px}
+html[data-design=trails] .timeline li>span{white-space:nowrap;overflow-wrap:normal}
+@media(max-width:1020px){html[data-design=trails] .hero-copy{padding-top:170px}}
+@media(max-width:760px){
+  html[data-design=trails] .masthead{padding:20px 6%;gap:14px}
+  html[data-design=trails] .masthead nav{font-size:11px;gap:8px;flex-wrap:nowrap}
+  html[data-design=trails] .hero.wrap{min-height:650px;max-height:850px;background:#c1cfd7}
+  /* Reduce the mobile scale to preserve the terrier and space ahead of its gaze. */
+  html[data-design=trails] .hero-trails img{position:absolute;bottom:0;height:min(100%,155vw);object-position:35% center;mask-image:linear-gradient(to bottom,transparent,#000 7%);-webkit-mask-image:linear-gradient(to bottom,transparent,#000 7%)}
+  html[data-design=trails] .hero-copy{width:88%;height:100%;margin:0 auto;padding:118px 0 0}
+  html[data-design=trails] .hero h1{font-size:clamp(30px,8vw,48px);max-width:480px}
+  html[data-design=trails] .hero-intro{position:static;max-width:100%;width:100%;padding:0;margin-top:14px;background:none;border-radius:0}
+  html[data-design=trails] .hero-intro p{max-width:300px;font-size:12px;line-height:1.5}
+  html[data-design=trails] .hero .button{position:absolute;bottom:52px;right:0;margin:0;font-size:0;padding:11px 16px;min-height:42px;gap:10px;background:#29454c99}
+  html[data-design=trails] .hero .button:before{content:'О породе';font-size:12px}
+  html[data-design=trails] .hero .button span{font-size:14px}
+  html[data-design=trails] .hero-trails figcaption{left:6%;font-size:9px;bottom:14px}
+  html[data-design=trails] .hero-trails .image-open{right:12px;bottom:12px;width:28px;height:28px}
+  html[data-design=trails] .history-photo img{height:470px;object-position:55% center}
+  html[data-design=trails] .history-scene h2{top:45px;left:6%;font-size:40px}
+  html[data-design=trails] .history-copy{display:block;padding-block:32px}
+  html[data-design=trails] .history-copy .lead{font-size:22px;margin-bottom:24px}
+  html[data-design=trails] .history-copy p:not(.lead){margin-bottom:18px}
+  html[data-design=trails] .working{padding-bottom:50px}
+  html[data-design=trails] .timeline{grid-template-columns:1fr 1fr;gap:25px 20px}
+}
+
+/* A lakeside pause: moving water, a sheltered video arch, and the owner's photograph. */
+html[data-design=trails] .camp.section{position:relative;background:linear-gradient(160deg,#e0ebe7,#eaf0ed 52%,#eeefdf);isolation:isolate;overflow:hidden;padding-block:76px 84px}
+html[data-design=trails] .camp:before{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;opacity:.16;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800' fill='none' stroke='%236c948c' stroke-width='1.3'%3E%3Cpath d='M730 40Q950 0 1190 90M680 70Q940 30 1230 130M710 108Q980 55 1230 175M790 150Q980 105 1230 205M60 570Q230 500 400 580T750 590M0 610Q220 545 410 630T840 615M0 660Q220 600 450 680T910 665M0 705Q240 655 480 730T990 720'/%3E%3C/svg%3E");background-size:cover;background-position:center}
+html[data-design=trails] .camp .section-heading{grid-template-columns:1.2fr 1fr;max-width:none;gap:60px;margin-bottom:48px}
+html[data-design=trails] .camp .section-heading>.lead{max-width:420px;font-size:18px}
+html[data-design=trails] .camp-layout{grid-template-columns:minmax(220px,.85fr) minmax(0,1.8fr);gap:clamp(35px,5vw,76px);max-width:1060px;align-items:center}
+html[data-design=trails] .camp-video{width:100%;max-width:300px;margin:0}
+html[data-design=trails] .camp-video-arch{overflow:hidden;border-radius:180px 180px 12px 12px;background:#314b44;box-shadow:0 12px 26px #32544912}
+html[data-design=trails] .camp-video video{width:100%;height:auto;aspect-ratio:464/848;object-fit:cover}
+html[data-design=trails] .camp-video figcaption{margin-top:15px;max-width:250px;line-height:1.6}
+html[data-design=trails] .camp-rest{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:30px;align-items:center}
+html[data-design=trails] .camp-rest>figure{grid-column:2;grid-row:1;width:100%;max-width:330px;margin:28px 0 0;transform:rotate(2deg);padding:10px 10px 14px;background:#f8f8ef;box-shadow:0 10px 24px #32544912}
+html[data-design=trails] .camp-rest>div{grid-column:1;grid-row:1}
+html[data-design=trails] .camp-rest h3{font-size:clamp(26px,2.5vw,35px);line-height:1.12;margin-bottom:22px;font-weight:500}
+html[data-design=trails] .camp-rest p{font-size:15px;line-height:1.65}
+html[data-design=trails] .camp-rest figure img{aspect-ratio:3/4;object-fit:contain}
+html[data-design=trails] .camp-rest figcaption{font-size:11px;line-height:1.5;margin-top:10px}
+@media(max-width:1020px) and (min-width:761px){
+  html[data-design=trails] .camp-layout{grid-template-columns:minmax(210px,.8fr) minmax(0,1fr);max-width:800px;gap:50px}
+  html[data-design=trails] .camp-rest{grid-template-columns:1fr;gap:28px}
+  html[data-design=trails] .camp-rest>div{grid-column:1;grid-row:1}
+  html[data-design=trails] .camp-rest>figure{grid-column:1;grid-row:2;margin:0 auto;max-width:300px}
+}
+@media(max-width:760px){
+  html[data-design=trails] .camp.section{padding-block:58px}
+  html[data-design=trails] .camp .section-heading{grid-template-columns:1fr;gap:20px;margin-bottom:32px}
+  html[data-design=trails] .camp .section-heading>.lead{font-size:16px}
+  html[data-design=trails] .camp-layout{grid-template-columns:1fr;gap:38px}
+  html[data-design=trails] .camp-video{width:74%;max-width:290px;margin-inline:auto}
+  html[data-design=trails] .camp-rest{grid-template-columns:1fr;gap:24px}
+  html[data-design=trails] .camp-rest>div{grid-column:1;grid-row:1;max-width:420px}
+  html[data-design=trails] .camp-rest>figure{grid-column:1;grid-row:2;width:86%;max-width:330px;margin:0 auto;transform:rotate(1.5deg)}
+  html[data-design=trails] .camp-rest h3{font-size:30px;margin-bottom:16px}
+}
+
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){
+  html[data-design=trails] .camp-rest>figure{transition:transform .4s ease}
+  html[data-design=trails] .camp-rest>figure:hover,
+  html[data-design=trails] .camp-rest>figure:focus-within{transform:rotate(0)}
+}
+
+/* Keep the historical introduction in both columns above the full painting. */
+html[data-design=trails] .history-copy>p.lead{grid-column:1;grid-row:1/4;align-self:center}
+
+/* Two aligned portraits: the companion on a trail and the documented breed. */
+html[data-design=trails] :is(.character-photo,.breed-proof>figure) img{aspect-ratio:3/2;object-fit:cover;object-position:center;border-radius:8px}
+html[data-design=trails] .breed-proof>figure .photo-link{border-radius:8px}
+@media(min-width:761px){
+  html[data-design=trails] :is(.character-layout,.breed-proof){grid-template-columns:minmax(0,1.08fr) minmax(0,1fr);gap:48px}
+}
+
+/* The owner's walking portrait occupies the larger album row; moss is a smaller texture. */
+html[data-design=trails] .owner-grid .owner-moss img{height:250px;object-fit:cover;background:none}
+html[data-design=trails] .owner-grid .owner-walk img{object-fit:contain;background:#dbe5e3}
+@media(max-width:450px){html[data-design=trails] .owner-grid .owner-moss img{height:210px}}
